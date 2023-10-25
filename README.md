@@ -1,2 +1,23 @@
-# PoscoAcademy_CarProject
-[데이터 분석] 포스코 AI·BIG Data 아카데미 - 인도 중고차 시장 공략 
+# 🖥️ POSCO AI BIG DATA 아카데미
+
+![슬라이드1](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/6237fa17-a7fe-4278-aaec-4293274d3f83)
+![슬라이드2](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/708620ec-11eb-4e28-9a64-6553dc5cd9b2)
+![슬라이드3](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/edc51c31-0e81-45fd-9d4e-ed07777d0cd4)
+![슬라이드4](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/653c309e-75e1-42e6-a89e-d0bd37792a58)
+![슬라이드5](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/abf35eb0-66cd-4deb-9b8d-fb55f5f4de52)
+![슬라이드6](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/fa73dc3a-2c89-4eb1-b9ab-5c2edd93a24a)
+![슬라이드7](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/dee4b282-98e6-4139-893b-40af7611d2e3)
+![슬라이드8](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/b33b1087-5511-4d31-ae49-8927d9700461)
+![슬라이드9](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/786de289-5fb7-4a96-ae0a-47fabd8d57a6)
+![슬라이드10](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/67cfc374-2aec-434b-9a65-1ca3978b45d8)
+![슬라이드11](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/7bf15cd1-4929-4f80-967b-b71c6442abde)
+![슬라이드12](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/2a38eea0-1019-4731-b39e-8c2734749c52)
+![슬라이드13](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/9b7f94fc-8986-4a82-afbd-50c81d281297)
+![슬라이드14](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/425f1628-44d4-470e-b3b6-4efc4956a767)
+![슬라이드15](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/7bc83127-2450-4237-967e-13d19adf2318)
+![슬라이드16](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/06a579fc-4f2b-48ea-8f3f-59644185014e)
+![슬라이드17](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/de4e6134-4a0f-4628-9287-c7d4f8c40ad0)
+![슬라이드18](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/7302966e-58a4-47f8-b8ba-442e709d93c0)
+![슬라이드19](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/789488f8-a716-4716-a45d-d5357ae4ba7b)
+![슬라이드20](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/264eef93-0cb9-4c97-8eb0-4f72c4b79d63)
+![슬라이드22](https://github.com/yerin723/PoscoAcademy_CarProject/assets/121655418/3990763f-ba61-4fd0-8016-ed413eed7173)
